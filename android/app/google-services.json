@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994010001181",
+    "project_id": "yoga-learning-flutter-app",
+    "storage_bucket": "yoga-learning-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994010001181:android:c7c0d87fa343154d187bf4",
+        "android_client_info": {
+          "package_name": "com.example.yoga_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbuibxDjSqHryWq8RfasRCJpQiS2SNEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
